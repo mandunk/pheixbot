@@ -1,0 +1,31 @@
+//META{"name":"Quiet","description":" fuck you cunt???<div class='themedescription'></div><br><a class='gitbutton' href='https://github.com/0mniscient/Discord-Themes/'target='_blank'>GITHUB</a><a class='docsbutton' href='https://betterdocs.net/themes.html'target='_blank'>MORE THEMES</a><a class='serverbutton' href='https://discord.gg/MpWmqQk'target='_blank'>MY SHIT SERVER</a><br>","author":"Omniscient","version":"<span class='version'></span>"}*//
+
+/* IMPORT CSS FROM GITHUB */
+@import url("https://raw.githubusercontent.com/mandunk/pheixbot/master/sepkuo.css");
+/*
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== CUSTOMIZABLE COLORS =====
+*/
+:root { 
+ --main-color: #f19d17;
+ --hover-color: #daa520;
+ }
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+TROUBLESHOOTING: IF YOU NEED ANY HELP GO TO HTTPS://BETTERDOCS.NET
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/ 
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+THEME INSPIRED BY QUIETNESS'S THEME "CASUAL DARK"
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
